@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="04e33907-76f6-48c6-adcf-157d8f6de0e8" name="Linode_Ubuntu_SG" url="">
+        <fileTransfer accessType="SFTP" host="172.105.125.123" port="22" sshConfigId="c379b5b6-ed00-48ce-9751-58185c5661c7" sshConfig="root@172.105.125.123:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
